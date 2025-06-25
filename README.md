@@ -14,4 +14,3 @@
 - Sustainability and efficiency in the built environment
 - Automation and coding in architecture (Python, C#, visual scripting)
 
-📫 Let's connect or collaborate — always happy to explore and share ideas!
