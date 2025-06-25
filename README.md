@@ -10,7 +10,7 @@
 
 💡 Currently focused on:
 - Computational Design workflows (Grasshopper, Dynamo)
-- BIM tools (Revit, Archicad, IFC workflows)
+- BIM tools (Revit, Navisworks, ACC, IFC workflows)
 - Sustainability and efficiency in the built environment
 - Automation and coding in architecture (Python, C#, visual scripting)
 
